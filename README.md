@@ -8,13 +8,13 @@ Generate strong and secure passwords effortlessly with this web application buil
 
 - **Copy to Clipboard:** Quickly and easily copy generated passwords to your clipboard for seamless usage.
 
-## Best Code Practices
+## Code Practices Used
 
-- **Structured Components:** Organize your code effectively with components placed in different folders for clarity and maintainability.
+- **Structured Components:** Organized code effectively with components placed in different folders for clarity and maintainability.
 
-- **Comments for Clarity:** Utilize comments throughout the codebase for better understanding and collaboration.
+- **Comments for Clarity:** Utilized comments throughout the codebase for better understanding and collaboration.
 
-- **Web Development Features:** Incorporate modern web development features and practices to ensure a smooth and responsive user experience.
+- **Web Development Features:** Incorporated modern web development features and practices to ensure a smooth and responsive user experience.
 
 ## Usage
 
